@@ -1,6 +1,6 @@
 ## Hi there, I'm Angelina! 👋
 
-### Data Developer & Analytics Engineer | Specialist in Data Modeling, Data Transformation & Pipeline Orchestration
+### Data Developer & Analytics Engineer | Specialist in Snowflake, Databricks, and Modern Data Stack Orchestration.
 
 I build reliable data systems that bridge the gap between messy raw data and actionable business intelligence.
 My focus is on the **Modern Data Stack** and implementing **Medallion Architecture** patterns.
@@ -17,15 +17,27 @@ A production-grade pipeline designed to track and model fuel prices across the U
 - **Modeling:** Implements **SCD Type 2** (Slowly Changing Dimensions) using **dbt** to maintain historical price accuracy.
 - **Testing:** Automated data quality and referential integrity checks.
 
+## ❄️ [Snowflake TPC-H Analytics Warehouse](https://github.com/angelinauesato/TPCH_Sample_Snowflake)
+A containerized ELT pipeline transforming raw TPC-H data into business-ready Marts.
+
+- **Orchestration:** Leveraged Astronomer Cosmos to render dbt models as native Airflow tasks for granular monitoring.
+
+- **Architecture:** Implemented a three-layer structure (Staging, Intermediate, Marts) with dynamic schema generation via custom dbt macros.
+
+- **Data Governance:** Automated 15+ data quality tests and persisted technical metadata (primary keys/descriptions) directly to Snowflake.
+
+- **Observability:** Integrated custom failure callbacks for real-time alerting.
+
 ---
 
 ## 🛠 My Technical Toolkit
 
 | Category | Tools |
 | :--- | :--- |
-| **Languages** | Python (PySpark, Pandas), SQL (Postgres), Bash |
-| **Data Orchestration** | Apache Airflow, dbt (Core/Cloud) |
-| **Big Data** | Apache Spark, Databricks, Snowflake|
+| **Languages** | Python, SQL, Bash |
+| **Data Orchestration** | Apache Airflow, Astronomer Cosmos, dbt (Core/Cloud) |
+| **Data Warehousing** | Databricks, Snowflake, Postgres|
+| **Big Data** |	Apache Spark, PySpark, Pandas |
 | **Infrastructure** | Docker, MinIO (S3), GitHub |
 | **Visualization** | Lightdash |
 
@@ -40,9 +52,7 @@ A production-grade pipeline designed to track and model fuel prices across the U
 
 ## 📫 Let's Connect
 - 📍 Location: Canada 🇨🇦
-- 💼 [LinkedIn](https://linkedin.com/in/angelinauesato) 
-
-
+- 💼 [LinkedIn](https://linkedin.com/in/angelinauesato) | [Portfolio](https://github.com/angelinauesato)
 
 
 
