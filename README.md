@@ -8,15 +8,6 @@ My focus is on the **Modern Data Stack** and implementing **Medallion Architectu
 ---
 
 ## 🚀 Featured Project
-### [UK Fuel Prices Data Pipeline](https://github.com/angelinauesato/uk_gas_prices)
-
-A production-grade pipeline designed to track and model fuel prices across the UK.
-
-- **Ingestion:** Scrapes data from multiple retailer APIs using **Apache Spark**.
-- **Orchestration:** Fully managed via **Apache Airflow** with custom retry policies and failure alerts.
-- **Modeling:** Implements **SCD Type 2** (Slowly Changing Dimensions) using **dbt** to maintain historical price accuracy.
-- **Testing:** Automated data quality and referential integrity checks.
-
 ## ❄️ [Snowflake TPC-H Analytics Warehouse](https://github.com/angelinauesato/TPCH_Sample_Snowflake)
 A containerized ELT pipeline transforming raw TPC-H data into business-ready Marts.
 
@@ -27,6 +18,19 @@ A containerized ELT pipeline transforming raw TPC-H data into business-ready Mar
 - **Data Governance:** Automated 15+ data quality tests and persisted technical metadata (primary keys/descriptions) directly to Snowflake.
 
 - **Observability:** Integrated custom failure callbacks for real-time alerting.
+
+
+### [UK Fuel Prices Data Pipeline](https://github.com/angelinauesato/uk_gas_prices)
+
+A production-grade pipeline designed to track and model fuel prices across the UK.
+
+- **Ingestion:** Scrapes data from multiple retailer APIs using **Apache Spark**.
+
+- **Orchestration:** Fully managed via **Apache Airflow** with custom retry policies and failure alerts.
+
+- **Modeling:** Implements **SCD Type 2** (Slowly Changing Dimensions) using **dbt** to maintain historical price accuracy.
+
+- **Testing:** Automated data quality and referential integrity checks.
 
 ---
 
