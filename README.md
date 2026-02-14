@@ -20,7 +20,7 @@ A containerized ELT pipeline transforming raw TPC-H data into business-ready Mar
 - **Observability:** Integrated custom failure callbacks for real-time alerting.
 
 
-### [UK Fuel Prices Data Pipeline](https://github.com/angelinauesato/uk_gas_prices)
+### ⛽️ [UK Fuel Prices Data Pipeline](https://github.com/angelinauesato/uk_gas_prices)
 
 A production-grade pipeline designed to track and model fuel prices across the UK.
 
@@ -49,8 +49,10 @@ A production-grade pipeline designed to track and model fuel prices across the U
 
 ## 🎓 Certifications & Learning
 - 🏗 **In Progress:** Databricks Certified Associate Developer for Apache Spark.
-- 🔭 **Researching:** Scalable web scraping architectures with Playwright.
-- 📖 **Reading:** Data Engineering Design Patterns. [Book](https://www.oreilly.com/library/view/data-engineering-design/9781098165826/)
+- 🔭 **Researching:** Query optimization and Data Automation.
+- 📖 **Reading:**
+    - Data Engineering Design Patterns. [Book](https://www.oreilly.com/library/view/data-engineering-design/9781098165826/ )
+    - Storytelling with data. [Book](https://www.storytellingwithdata.com/books)
 
 ---
 
