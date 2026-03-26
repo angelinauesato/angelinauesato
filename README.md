@@ -7,7 +7,30 @@ My focus is on the **Modern Data Stack** and implementing **Medallion Architectu
 
 ---
 
+## 🛠 My Technical Toolkit
+
+| Category | Tools |
+| :--- | :--- |
+| **Languages** | Python, SQL, Bash |
+| **Data Orchestration** | Apache Airflow, Astronomer Cosmos, dbt (Core/Cloud) |
+| **Data Warehousing** | Databricks, Snowflake, Postgres, MySQL |
+| **Big Data** |	Apache Spark, PySpark, Pandas |
+| **Infrastructure** | Docker, MinIO, S3, GitHub |
+| **Visualization** | Lightdash, Looker |
+
+---
+
 ## 🚀 Featured Project
+## 🇧🇷 [Olist: Brazilian E-Commerce Analytics Pipeline](https://github.com/angelinauesato/Brazilian_E-commerce_Olist)🎯
+# 🎯Project Goal
+The objective of this project is to analyze the logistics performance and customer satisfaction of the Brazilian e-commerce giant, Olist.
+
+- **Data Architecture & Tech Stack:** This project follows the **Medallion Architecture** principles, utilizing a modular flow within **dbt Cloud** and **Snowflake**.
+  
+- **📈 Key Business Metrics:** The primary KPI for operational excellence. A "**Perfect Order**" is defined as an order that meets three strict criteria: Status, Logistics and Satisfaction.
+  
+- **🛠 Features & Engineering Highlights:** Macro-Driven Cleaning, Customer Identity Resolution and Historical Tracking.
+
 ## ❄️ [Snowflake TPC-H Analytics Warehouse](https://github.com/angelinauesato/TPCH_Sample_Snowflake)
 A containerized ELT pipeline transforming raw TPC-H data into business-ready Marts.
 
@@ -32,18 +55,6 @@ A production-grade pipeline designed to track and model fuel prices across the U
 
 - **Testing:** Automated data quality and referential integrity checks.
 
----
-
-## 🛠 My Technical Toolkit
-
-| Category | Tools |
-| :--- | :--- |
-| **Languages** | Python, SQL, Bash |
-| **Data Orchestration** | Apache Airflow, Astronomer Cosmos, dbt (Core/Cloud) |
-| **Data Warehousing** | Databricks, Snowflake, Postgres|
-| **Big Data** |	Apache Spark, PySpark, Pandas |
-| **Infrastructure** | Docker, MinIO (S3), GitHub |
-| **Visualization** | Lightdash |
 
 ---
 
